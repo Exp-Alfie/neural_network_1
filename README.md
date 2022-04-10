@@ -31,5 +31,23 @@
 使用折线图绘制loss和accuracy,使用直方图可视化网格参数。绘制结果保存在figs文件夹中。
 
 # 模型结果
+###accuracy:
+![accuracy](https://user-images.githubusercontent.com/83007344/162627576-50638349-6dea-4118-99bc-ed7a353b8e09.png)
+
+###loss:
+![loss](https://user-images.githubusercontent.com/83007344/162627619-d651cdfe-4915-4833-9e6c-0c835c0e83f8.png)
+
+
+###layer1_biases
+![layer1_biases](https://user-images.githubusercontent.com/83007344/162627628-672a592d-84dc-43fc-a8c0-2ffc9b6bf26b.png)
+
+###layer2_biases
+![layer2_biases](https://user-images.githubusercontent.com/83007344/162627651-a6b98303-e620-4a68-b9b6-04e212113340.png)
+
+###layer1_weights:
+![layer1_weights](https://user-images.githubusercontent.com/83007344/162627667-5d3dfba2-0699-4ba1-a64d-f4cb7c53fcdf.png)
+
+###layer2_weights:
+![layer2_weights](https://user-images.githubusercontent.com/83007344/162627683-2982387c-10f6-4292-a5f0-41488b9dd9e4.png)
 
 
